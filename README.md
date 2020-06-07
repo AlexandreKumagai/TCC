@@ -4,6 +4,8 @@ Neste repositório está disponível modelos treinados de geração de imagens (
 Foram realizados treinamentos utilizando uma base de dados de flores e outra da MS COCO dataset, com as seguintes funções de ativação:
   
   Flores
+  
+  
     -ReLU
     https://drive.google.com/file/d/13WoI0KJF9cTgUDbQ1DC8S81oIUvkalmA/view?usp=sharing
     -SoftSign
