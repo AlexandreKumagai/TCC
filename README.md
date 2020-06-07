@@ -24,6 +24,8 @@ Foram realizados treinamentos utilizando uma base de dados de flores e outra da 
     -SoftSign
     https://drive.google.com/file/d/156_O6lQY9IBI2VEpNfo2GpY7lOMOCZGO/view?usp=sharing
     -PReLU
+    https://drive.google.com/file/d/1cLsFj-EXfbnoykxlnux45Djuz9_v9zHA/view?usp=sharing
     -ReLU6
     https://drive.google.com/file/d/1dZbtogU-lKOZEajhrwXGQ7o_NJceJTbK/view?usp=sharing
     -Sigmoid
+    https://drive.google.com/file/d/17LQ5ZuCZP2cbW1zrPBIyOjRCbfiTdT_l/view?usp=sharing
