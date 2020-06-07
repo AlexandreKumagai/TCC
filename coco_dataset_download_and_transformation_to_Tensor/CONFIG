@@ -1,0 +1,3 @@
+PATH_DOWNLOAD = /download
+PATH_RESULTS = /results
+PATH_CSV = /download
