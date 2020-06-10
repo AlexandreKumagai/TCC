@@ -1,6 +1,6 @@
 # Geração de imagens a partir de sentenças
 
-Neste repositório está disponível modelos treinados de geração de imagens (GAN), conforme o seguinte paper xpto.
+Neste repositório está disponível modelos treinados de geração de imagens (GAN).
 Foram realizados treinamentos utilizando uma base de dados de flores e outra da MS COCO dataset, com as seguintes funções de ativação:
   
 Resultados:
