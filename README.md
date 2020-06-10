@@ -3,6 +3,12 @@
 Neste repositório está disponível modelos treinados de geração de imagens (GAN), conforme o seguinte paper xpto.
 Foram realizados treinamentos utilizando uma base de dados de flores e outra da MS COCO dataset, com as seguintes funções de ativação:
   
+Resultados:
+
+  https://drive.google.com/drive/folders/1X_NbxC64qT3MNpOGIB53buJ89mGHVzya?usp=sharing
+
+Modelos:
+
   Flores
   
   
