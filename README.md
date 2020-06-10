@@ -1,7 +1,7 @@
 # Geração de imagens a partir de sentenças
 
 Neste repositório está disponível modelos treinados de geração de imagens (GAN).
-Foram realizados treinamentos utilizando uma base de dados de flores e outra da MS COCO dataset, com as seguintes funções de ativação:
+Foram realizados treinamentos utilizando uma base de dados de flores e outra base conforme este documento, com as seguintes funções de ativação:
   
 Resultados:
 
@@ -35,3 +35,8 @@ Modelos:
     https://drive.google.com/file/d/1dZbtogU-lKOZEajhrwXGQ7o_NJceJTbK/view?usp=sharing
     -Sigmoid
     https://drive.google.com/file/d/17LQ5ZuCZP2cbW1zrPBIyOjRCbfiTdT_l/view?usp=sharing
+
+
+  Base contexto urbano
+    
+    https://drive.google.com/file/d/1lrg8PXIzuF9Yx9iAlKtprBqiDpaYIgmH/view?usp=sharing
